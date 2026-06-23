@@ -96,7 +96,11 @@ Netflix-Data-Analysis
 ## 📂 Dataset
 
 Netflix Movies and TV Shows Dataset
+Dataset Source:
+https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+Total Records: 8,807
+Features: 12
 ---
 
 ## 👩‍💻 Author
