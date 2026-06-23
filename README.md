@@ -64,27 +64,32 @@ Netflix-Data-Analysis
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](screenshots/movies_vs_tvshows.png)
+<img width="1920" height="968" alt="movies_vs_tvshows" src="https://github.com/user-attachments/assets/3078f636-6522-41bf-98ad-497920531d73" />
+
 
 ### Top 10 Countries
 
-![Top Countries](screenshots/top_10_countries.png)
+<img width="1920" height="971" alt="top_10_countries" src="https://github.com/user-attachments/assets/361e6ffc-e5db-4467-8603-8d41dbefb6e5" />
+
 
 ### Ratings Distribution
 
-![Ratings Distribution](screenshots/ratings_distribution.png)
+<img width="1920" height="964" alt="ratings_distribution" src="https://github.com/user-attachments/assets/28744f1f-e234-4f99-8108-853c256e9bc7" />
+
 
 ### Top Genres
 
-![Top Genres](screenshots/top_genres.png)
+<img width="1920" height="964" alt="top_genres" src="https://github.com/user-attachments/assets/5af3e2fb-aee8-492f-b26c-8c19c9d103a2" />
+
 
 ### Content Growth Over Years
 
-![Content Growth](screenshots/content_growth.png)
+<img width="1920" height="971" alt="content_growth" src="https://github.com/user-attachments/assets/73e3113b-4768-44bb-9c43-1eb0842c5fb5" />
 
 ### Top Directors
 
-![Top Directors](screenshots/top_directors.png)
+<img width="1920" height="954" alt="top_directors" src="https://github.com/user-attachments/assets/f1357ac2-df40-4b2a-8242-3bf4929795be" />
+
 
 ---
 
