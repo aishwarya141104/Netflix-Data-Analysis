@@ -101,8 +101,7 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Total Records: 8,807
 Features: 12
----
-## Updated Documentation
+
 ## 👩‍💻 Author
 
 **Aishwarya Kulkarni**
