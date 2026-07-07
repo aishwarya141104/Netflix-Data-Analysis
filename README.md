@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Netflix Data Analysis Banner" width="100%">
+</p>
+
+<h1 align="center">🎬 Netflix Data Analysis</h1>
+
+<p align="center">
+Exploratory Data Analysis using Python, Pandas, NumPy, Matplotlib and Seaborn
+</p>
 # 🎬 Netflix Data Analysis using Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
