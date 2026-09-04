@@ -12,6 +12,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+#Dashboard
+<img width="1787" height="881" alt="DASHBOARD" src="https://github.com/user-attachments/assets/0206ec26-f4a3-468a-8d3e-09ee364746c0" />
 
 # 📌 Project Overview
 
